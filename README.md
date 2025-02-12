@@ -35,7 +35,8 @@ Drop the files into your assets folder. The new tools will appear under 'Terrain
 1. Set up your terrain layers on the terrain
 2. Run **Terrain Splatmap Painter**
 3. Drag in your terrain
-4. The rest is self-explanatory
+4. Height threshold, is the height the splatmap will start at i.e. if the threshold is 100 the splatmap won't be painted on any part of the terrain below that
+5. Angle threshold, is the angle the splatmap will start at i.e. if the threshold is 30 the splatmap won't be painted on any part of the terrain that has an angle less than 30 degress
 
 **Tree Scatterer**
 1. Set up your tree prototypes on the terrain
