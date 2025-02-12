@@ -8,7 +8,7 @@ Set of tools that allows you to quickly create a unity terrain. The tools are us
 **Version History**  
 12/02/2025 - Initial Commit  
 
-Tools
+**Tools**
   - **Image to Heightmap**, applies a greyscale image as a heightmap to the selected unity terrain
   - **Terrain Splatmap Painter**, procedurally paint a splatmap layer according to height and angle
   - **Tree Clearer**, deletes all tree instances from the terrain
