@@ -1,5 +1,5 @@
 # TerrainTools
-Set of tools that allows you to quickly create a unity terrain. The tools are useful for quickly setting up a terrain which you can then perfect and modify using unity's terrain tools.
+Set of tools that allows you to quickly create a unity terrain. The tools are useful for quickly setting up a terrain which you can then perfect and modify using unity's terrain tools. Some knowledge of how Unity Terrain works is recommended.
 
 **Get it here:** https://github.com/MichaelEGA/TerrainTools
 
