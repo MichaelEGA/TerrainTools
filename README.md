@@ -5,7 +5,7 @@ Set of tools that allows you to quickly create a unity terrain. The tools are us
 
 **Tested In:** Unity URP 6000.1.0b3
 
-**Version History ** 
+**Version History**  
 12/02/2025 - Initial Commit  
 
 Tools
